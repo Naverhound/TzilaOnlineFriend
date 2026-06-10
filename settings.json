@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot691",
+    "username": "TzilacatzinFriend",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Naverhound.aternos.me",
-    "port": 59116,
+    "ip": "Tzilacraft.aternos.me",
+    "port": 64117,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Me la estoy pasando bien raro....",
+        "Vayan a entrenar!",
+        "No juegue mucho Minecraft!"
       ]
     },
     "chat-log": true,
@@ -60,7 +60,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
